@@ -14,7 +14,7 @@
 
 ## How to Use
 1. Run the program by executing the `main()` function.
-2. Click the "Browse File" button to select multiple files.
+2. Click the "Browse File" button to select file.
 3. Enter a custom rename format in the provided Entry widget.
 4. Optionally, specify a new extension for the files.
 5. Click the "Done" button to rename the selected files.
